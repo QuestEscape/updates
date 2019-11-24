@@ -1,5 +1,18 @@
 # Updates
 
-Head over to the [Releases tab](https://github.com/QuestEscape/updates/releases) to find the archives to download.
+| Version Number | Download Link |
+| -------------- | ------------- |
+| `213561.4150.0` | [2135610041500000_2135610041500000.zip](https://github.com/QuestEscape/updates/releases/download/2135610041500000/2135610041500000_2135610041500000.zip) |
+| `256550.6810.0` | [2565500068100000_2565500068100000.zip](https://github.com/QuestEscape/updates/releases/download/2565500068100000/2565500068100000_2565500068100000.zip) |
+| `333700.2680.0` | [3337000026800000_3337000026800000.zip](https://github.com/QuestEscape/updates/releases/download/3337000026800000/3337000026800000_3337000026800000.zip) |
+| `333700.3780.0` | [3337000037800000_3337000037800000.zip](https://github.com/QuestEscape/updates/releases/download/3337000037800000/3337000037800000_3337000037800000.zip) |
+| `358570.6090.0` | [3585700060900000_3585700060900000.zip](https://github.com/QuestEscape/updates/releases/download/3585700060900000/3585700060900000_3585700060900000.zip) |
+| `358570.9320.0` | [3585700093200000_3585700093200000.zip](https://github.com/QuestEscape/updates/releases/download/3585700093200000/3585700093200000_3585700093200000.zip) |
+| `377480.16500.0` | [3774800165000000_3774800165000000.zip](https://github.com/QuestEscape/updates/releases/download/3774800165000000/3774800165000000_3774800165000000.zip) |
+| `396520.6170.0` | [3965200061700000_3965200061700000.zip](https://github.com/QuestEscape/updates/releases/download/3965200061700000/3965200061700000_3965200061700000.zip) |
+| `396520.6170.115` | [3965200061700115_3965200061700115.zip](https://github.com/QuestEscape/updates/releases/download/3965200061700115/3965200061700115_3965200061700115.zip) |
+| `415630.4650.0` | [4156300046500000_4156300046500000.zip](https://github.com/QuestEscape/updates/releases/download/4156300046500000/4156300046500000_4156300046500000.zip) |
+| `415630.5860.0` | [4156300058600000_4156300058600000.zip](https://github.com/QuestEscape/updates/releases/download/4156300058600000/4156300058600000_4156300058600000.zip) |
+| `415630.6700.0` | [4156300067000000_4156300067000000.zip](https://github.com/QuestEscape/updates/releases/download/4156300067000000/4156300067000000_4156300067000000.zip) |
 
-Last upload: `4156300058600000`
+We're looking for update packages for versions between `213561.4150.0` and `256550.6810.0`. If you've got one and would be okay sharing it with us, please open a PR to get in touch!
